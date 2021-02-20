@@ -1,0 +1,11 @@
+csv_id,city,country,department,email,full_name,id1,id2,id3,id4,id5,job_title,state,username
+1,Campinas,Brazil,Development,user_browsed_to_gambling-1@example.ibm.com,user_browsed_to_gambling-1,user_browsed_to_gambling-1,,,,,Web Designer,Sao Paulo,user_browsed_to_gambling-1
+2,Curitiba,Brazil,Support,user_browsed_to_info_tech-1@example.ibm.com,user_browsed_to_info_tech-1,user_browsed_to_info_tech-1,,,,,Sales Manager,Parana,user_browsed_to_info_tech-1
+3,Belo Horizonte,Brazil,Support,user_browsed_to_lifestyle-1@example.ibm.com,user_browsed_to_lifestyle-1,user_browsed_to_lifestyle-1,,,,,Sales Manager,Minas Gerais,user_browsed_to_lifestyle-1
+4,Shenzhen,China,Development,user_browsed_to_questionable-1@example.ibm.com,user_browsed_to_questionable-1,user_browsed_to_questionable-1,,,,,Web Designer,Guangdong ,user_browsed_to_questionable-1
+5,New York,United States,Sales,user_ransomware-1@example.ibm.com,user_ransomware-1,user_ransomware-1,,,,,Sales Manager,New York,user_ransomware-1
+6,Tokyo,Japan,Development,user_internet_settings_modified-1@example.ibm.com,user_internet_settings_modified-1,user_internet_settings_modified-1,,,,,Web Designer,Tokyo,user_internet_settings_modified-1
+7,Shanghai,China,Development,user_shadow_copy_created-1@example.ibm.com,user_shadow_copy_created-1,user_shadow_copy_created-1,,,,,Software Engineer,Shanghai,user_shadow_copy_created-1
+8,Monterrey,Mexico,Support,user_role_change-1@example.ibm.com,user_role_change-1,user_role_change-1,,,,,IT Support Specialist,Nuevo Leon,user_role_change-1
+9,Curitiba,Brazil,Marketing,user_geo_change-1@example.ibm.com,user_geo_change-1,user_geo_change-1,,,,,Sales Manager,Parana,user_geo_change-1
+10,Recife,Brazil,Marketing,user_five_aliases_1@example.ibm.com,user_five_aliases_1,user_five_aliases_1,user_five_aliases_2,user_five_aliases_3,user_five_aliases_4,user_five_aliases_5,Web Designer,Pernambuco,user_five_aliases_1
